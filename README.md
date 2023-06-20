@@ -27,11 +27,3 @@ Check out the live website preview [here](https://car-showcase-5eawj8f9n-ma7moud
 
 
 
-## Getting Started
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/car-showcase.git
